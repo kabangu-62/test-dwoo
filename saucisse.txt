@@ -1,5 +1,6 @@
-triojoiyjdgguyiyiùi(*ooo'yjupoù*u
+triojoiyjdgguyiyiÅ¯i(*ooo'yjupoÅ¯*u
 jdrjgk'kjjjgjggjjgkgjlgkjgkgkglmg
+<<<<<<< HEAD
 jegjmlkgmkgmkgùmklgùlgùlglgùmlùp^lg zgkljerljjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjklùlgù
 
 
@@ -9,3 +10,7 @@ QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
 DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 
 FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+=======
+jegjmlkgmkgmkgÅ¯mklgÅ¯lgÅ¯lglgÅ¯mlÅ¯p^lg zgkljerljjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjklÅ¯lgÅ¯
+kjjj
+>>>>>>> chezgithub/master
